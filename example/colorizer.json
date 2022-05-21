@@ -1,0 +1,98 @@
+{
+    "colorizer": {
+        "base": {
+            "colors": {
+                "active": {
+                    "alt-base": "#fff1da",
+                    "base": "#ffffff",
+                    "bright-text": "#ffffff",
+                    "button": "#ffe4b5",
+                    "button-text": "#000000",
+                    "highlight": "#cd853f",
+                    "highlight-text": "#ffffff",
+                    "link": "#0000ff",
+                    "link-visited": "#ff00ff",
+                    "text": "#000000",
+                    "tooltip-base": "#ffffdc",
+                    "tooltip-text": "#000000",
+                    "window": "#ffe4b5",
+                    "window-text": "#000000"
+                },
+                "disabled": {
+                    "alt-base": "#ffe4b5",
+                    "base": "#ffe4b5",
+                    "bright-text": "#ffffff",
+                    "button": "#ffe4b5",
+                    "button-text": "#7f725a",
+                    "highlight": "#000080",
+                    "highlight-text": "#ffffff",
+                    "link": "#0000ff",
+                    "link-visited": "#ff00ff",
+                    "text": "#7f725a",
+                    "tooltip-base": "#ffffdc",
+                    "tooltip-text": "#000000",
+                    "window": "#ffe4b5",
+                    "window-text": "#7f725a"
+                },
+                "inactive": {
+                    "alt-base": "#fff1da",
+                    "base": "#ffffff",
+                    "bright-text": "#ffffff",
+                    "button": "#ffe4b5",
+                    "button-text": "#000000",
+                    "highlight": "#cd853f",
+                    "highlight-text": "#ffffff",
+                    "link": "#0000ff",
+                    "link-visited": "#ff00ff",
+                    "text": "#000000",
+                    "tooltip-base": "#ffffdc",
+                    "tooltip-text": "#000000",
+                    "window": "#ffe4b5",
+                    "window-text": "#000000"
+                }
+            },
+            "font": {
+                "bold": true,
+                "family": "Verdana",
+                "italic": false,
+                "point-size": 9
+            }
+        },
+        "sets": [
+            {
+                "colors": {
+                    "active": {
+                        "button": "#dda0dd"
+                    },
+                    "disabled": {
+                        "button": "#dda0dd"
+                    },
+                    "inactive": {
+                        "button": "#dda0dd"
+                    }
+                },
+                "font": {
+                    "bold": false,
+                    "family": "Verdana",
+                    "italic": true,
+                    "point-size": 9
+                },
+                "names": "btn1,btn2",
+                "types": "QPushButton"
+            },
+            {
+                "colors": {
+                    "active": {
+                        "highlight": "#556b2f"
+                    },
+                    "inactive": {
+                        "highlight": "#556b2f"
+                    }
+                },
+                "names": "dial",
+                "types": "QDial"
+            }
+        ]
+    },
+    "version": 1
+}

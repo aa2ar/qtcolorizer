@@ -1,0 +1,58 @@
+{
+    "colorizer": {
+        "base": {
+            "colors": {
+                "active": {
+                    "alt-base": "#efedec",
+                    "base": "#ffffff",
+                    "button": "#dfdcd9",
+                    "button-text": "#000000",
+                    "highlight": "#308cc6",
+                    "highlight-text": "#ffffff",
+                    "window": "#d6d2d0",
+                    "window-text": "#000000"
+                },
+                "disabled": {
+                    "alt-base": "#efedec",
+                    "base": "#ffffff",
+                    "button": "#dfdcd9",
+                    "button-text": "#808080",
+                    "highlight": "#918d7e",
+                    "highlight-text": "#ffffff",
+                    "window": "#d6d2d0",
+                    "window-text": "#808080"
+                },
+                "inactive": {
+                    "alt-base": "#efedec",
+                    "base": "#ffffff",
+                    "button": "#dfdcd9",
+                    "button-text": "#000000",
+                    "highlight": "#308cc6",
+                    "highlight-text": "#ffffff",
+                    "window": "#d6d2d0",
+                    "window-text": "#000000"
+                }
+            }
+        },
+        "sets": [
+            {
+                "colors": {
+                    "active": {
+                        "button": "#f5deb3",
+                        "highlight": "#a0522d"
+                    },
+                    "disabled": {
+                        "button": "#f5deb3"
+                    },
+                    "inactive": {
+                        "button": "#f5deb3",
+                        "highlight": "#a0522d"
+                    }
+                },
+                "names": "*",
+                "types": "QDial"
+            }
+        ]
+    },
+    "version": 1
+}

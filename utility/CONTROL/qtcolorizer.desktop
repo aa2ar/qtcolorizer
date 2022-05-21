@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Qt Colorizer
+Exec=/usr/local/bin/qtcolorizer
+Icon=qtcolorizer.png
+Type=Application
+Categories=Utility

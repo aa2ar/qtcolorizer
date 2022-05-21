@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="info">rc/img/info16x16.png</file>
+        <file>rc/img/close16x16.png</file>
+        <file>rc/img/wrench16x16.png</file>
+        <file>rc/img/copy16x16.png</file>
+        <file>rc/img/copy2-16x16.png</file>
+        <file>rc/img/info-16x16.png</file>
+        <file>rc/colorizer.json</file>
+        <file>rc/img/add-16x16.png</file>
+        <file>rc/img/close-16x16.png</file>
+        <file>rc/img/add2-16x16.png</file>
+        <file>rc/img/add3-16x16.png</file>
+        <file>rc/img/menu-16x16.png</file>
+        <file>rc/img/coloraction-16x16.png</file>
+    </qresource>
+</RCC>
